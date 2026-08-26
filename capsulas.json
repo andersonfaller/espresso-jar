@@ -69,7 +69,7 @@
     "brandImageUrl": "https://cdn.metcash.media/image/upload/w_1500,h_1500,c_pad,b_auto/igashop/images/180000006247_1.jpg",
     "capsuleImageUrl": "https://http2.mlstatic.com/D_NQ_NP_967827-MLA88493966440_072025-O.webp",
     "descriptionUrl": "https://www.nescafe.com/br/cafes/farmers-origins-andes",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "name": "Mexico",
