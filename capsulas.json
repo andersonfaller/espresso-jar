@@ -112,6 +112,14 @@
     "isAvailable": false
   },
   {
+    "name": "Single-Origin Guatemala",
+    "brand": "Starbucks",
+    "brandImageUrl": "https://http2.mlstatic.com/D_NQ_NP_634517-MLB113289656722_072026-O.webp",
+    "capsuleImageUrl": "https://www.starbucksathome.com/pt/sites/default/files/2025-12/SBK_PDP_NESPRESSO_GUATAMALA_HERO%20BANNER_ASSET_CAPSULE%20ICONS_200x170px.png",
+    "descriptionUrl": "https://www.starbucksathome.com/pt/produtos/single-origin-guatemala",
+    "isAvailable": true
+  },
+  {
     "name": "Caffè Verona",
     "brand": "Starbucks",
     "brandImageUrl": "",
