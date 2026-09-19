@@ -34,18 +34,18 @@
   {
     "name": "Brazil",
     "brand": "Nescafé Farmers Origins",
-    "brandImageUrl": "",
-    "capsuleImageUrl": "",
-    "descriptionUrl": "",
-    "isAvailable": false
+    "brandImageUrl": "https://lafamilleatable.com/cdn/shop/files/08445291145535_C8N1_s01.jpg?v=1779865521&width=1946",
+    "capsuleImageUrl": "https://images.tcdn.com.br/img/img_prod/638868/10_capsulas_de_nescafe_farmers_origins_brazil_1936_4_1843b026f69d5c1ab64277e17f080b2b.jpg",
+    "descriptionUrl": "https://www.nescafe.com/br/cafes/farmers-origins-brazil",
+    "isAvailable": true
   },
   {
     "name": "Colombia",
     "brand": "Nescafé Farmers Origins",
-    "brandImageUrl": "",
-    "capsuleImageUrl": "",
-    "descriptionUrl": "",
-    "isAvailable": false
+    "brandImageUrl": "https://lafamilleatable.com/cdn/shop/files/08445291112469_C8N1_s01.jpg?v=1779865519&width=1946",
+    "capsuleImageUrl": "https://images.tcdn.com.br/img/img_prod/638868/30_capsulas_de_cafe_nescafe_farmers_origins_colombia_10850_4_1b3d812af2d3b1cbf45f729f9c882294.jpg",
+    "descriptionUrl": "https://www.nescafe.com/br/cafes/farmers-origins-colombia",
+    "isAvailable": true
   },
   {
     "name": "Colombia Decaffeinato",
