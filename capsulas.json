@@ -37,7 +37,7 @@
     "brandImageUrl": "https://lafamilleatable.com/cdn/shop/files/08445291145535_C8N1_s01.jpg?v=1779865521&width=1946",
     "capsuleImageUrl": "https://images.tcdn.com.br/img/img_prod/638868/10_capsulas_de_nescafe_farmers_origins_brazil_1936_4_1843b026f69d5c1ab64277e17f080b2b.jpg",
     "descriptionUrl": "https://www.nescafe.com/br/cafes/farmers-origins-brazil",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "name": "Colombia",
@@ -77,7 +77,7 @@
     "brandImageUrl": "https://lafamilleatable.com/cdn/shop/files/08445291144453_C8N1_s01.jpg?v=1779865520&width=1946",
     "capsuleImageUrl": "https://http2.mlstatic.com/D_Q_NP_735323-MLA80622390616_112024-O.webp",
     "descriptionUrl": "https://www.nescafe.com/br/cafes/farmers-origins-mexico",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "name": "Pike Place Roast",
