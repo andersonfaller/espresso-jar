@@ -5,7 +5,7 @@
     "brandImageUrl": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/NE12415829_F_starbucks_blonde_espresso_coffee_capsules_10_pack.jpg",
     "capsuleImageUrl": "https://http2.mlstatic.com/D_NQ_NP_800063-MLA88500758272_072025-O.webp",
     "descriptionUrl": "https://www.starbucksathome.com/br/produto/blonde-espresso-roast-by-nespresso",
-    "isAvailable": false
+    "isAvailable": true
   },
   {
     "name": "Espresso Roast",
@@ -45,7 +45,7 @@
     "brandImageUrl": "https://lafamilleatable.com/cdn/shop/files/08445291112469_C8N1_s01.jpg?v=1779865519&width=1946",
     "capsuleImageUrl": "https://images.tcdn.com.br/img/img_prod/638868/30_capsulas_de_cafe_nescafe_farmers_origins_colombia_10850_4_1b3d812af2d3b1cbf45f729f9c882294.jpg",
     "descriptionUrl": "https://www.nescafe.com/br/cafes/farmers-origins-colombia",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "name": "Colombia Decaffeinato",
